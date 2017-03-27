@@ -1,2 +1,3 @@
 # stat222
-Stat 222 - Portfolio Project
+UC Berkeley, Statistics MA program, Spring 2017
+Stat 222 - Stock Portfolio Project
